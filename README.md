@@ -1,5 +1,6 @@
 
-![Image 3-1-24 at 2 06 AM](https://github.com/ziqingg2/tetris/assets/80551600/b2245263-bbe8-4e5a-a303-769b01718169)
+![ezgif-5-b8c397c450](https://github.com/ziqingg2/tetris/assets/80551600/909bd232-fbd1-49b2-abf8-91fcd184804a)
+
 
 A simple single-player tetris game developed in C# and WPF. Music and sound effects are integrated with the NAudio library.
 
